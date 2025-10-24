@@ -1,5 +1,5 @@
-num1=2
-num2=4
+num1=float(input('Insira o primeiro valor: '))
+num2=float(input('insira o segundo valor: '))
 soma=num1+num2
 sub=num1-num2
 div=num1/num2
