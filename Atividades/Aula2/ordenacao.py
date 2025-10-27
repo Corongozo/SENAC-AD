@@ -3,6 +3,10 @@ num1=float(input('Primeiro valor: '))
 num2=float(input('Segundo valor: '))
 num3=float(input('Terceiro valor: '))
 
+slot1=None
+slot2=None
+slot3=None
+
 if num1<num2 and num1<num3:
     slot1=num1
 elif num1>num2 and num1<num3:
@@ -42,4 +46,4 @@ elif num3<num1 and num3>num2:
 elif num3>num1 and num3>num2:
     slot3=num3
 
-print('Numeros em ordem:',slot1, slot2, slot3)
+print('Numeros em ordem:', slot1, slot2, slot3)

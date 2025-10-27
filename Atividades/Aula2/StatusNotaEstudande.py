@@ -12,3 +12,5 @@ elif media>=5 and media<=7:
     print('Vai para a recuperação!!')
 elif media>7:
     print('Você foi aprovado!!')
+else:
+    print('Erro de digitação')
