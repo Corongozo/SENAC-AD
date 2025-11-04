@@ -5,9 +5,7 @@
 # ●  Se for menor de 18, o programa deve informar que ele não pode participar e pular 
 # a coleta dos demais dados (telefone, email etc) para esse candidato. 
 # ●  Se for maior de 18, o programa prossegue com o input() para os demais dados. 
-from datetime import datetime
-
-ano_atual = datetime.now().year
+ano_atual = 2025
 
 for i in range(1, 13):
     print("\nCandidato", i)
