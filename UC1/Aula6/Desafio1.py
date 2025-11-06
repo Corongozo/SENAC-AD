@@ -3,7 +3,7 @@
 # (if/elif/else) da média. Crie uma lista vazia (resultados = []). A cada repetição, adicione uma 
 # string (ex: "Aluno 1 - Aprovado") a esta lista usando .append().
 resultado = []
-for i in range(5):
+for i in range(2):
     try:
         print('-'*90,)
         print(f'Aluno {i+1}:')
@@ -29,4 +29,6 @@ for i in range(5):
             resultado.append(f"Aluno {i+1} Situação: Recuperação")
     except ValueError:
         print("Valor invalido.")
-print(resultado)
+for i in resultado:
+    print('-'*90)
+    print(i)
