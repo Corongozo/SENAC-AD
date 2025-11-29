@@ -30,6 +30,9 @@ cursor.close()
 conexao.close()
 
 ######################
+import pandas as pd
+import mysql.connector
+
 
 def obter_dados_do_banco(query):
     try:
@@ -66,7 +69,7 @@ query_clientes = "SELECT * FROM clientes"
 df_clientes = pd.DataFrame(obter_dados_do_banco(query_clientes), columns=['id_cliente', 'nome', 'email'])
 print(df_clientes)
 
-df_pedidos = pd.read_csv('pedidos.csv')
+df_pedidos = pd.read_csv('vendas_pedidos.csv')
 print(df_pedidos)
 
 # Relacionando os DataFrames pela coluna 'id_cliente'
