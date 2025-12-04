@@ -3,7 +3,7 @@
 - Estatistica:
 	- Análise estatísticas (.py ou .ipynb) 
 - MySQL:
-	- Banco de dados
+	- Banco de dados (Base com multiplas tabelas relacionais)
 	- Min 5 consultas (JOIN no MySQL)
 
 
