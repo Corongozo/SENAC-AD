@@ -1,0 +1,14 @@
+### ETAPA 1:
+- Pandas
+- Estatistica:
+	- Análise estatísticas (.py ou .ipynb) 
+- MySQL:
+	- Banco de dados
+	- Min 5 consultas (JOIN no MySQL)
+
+
+### ETAPA 2:
+- Big Data
+
+### ETAPA 3:
+- Power BI

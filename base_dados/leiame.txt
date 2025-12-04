@@ -1,9 +1,0 @@
-Cálculo da taxa de analfabetismo em 2022
-
-O procedimento para o cálculo da taxa de analfabetismo em 2022 seguiu as etapas abaixo:
-
-1) Foram apurados os totais da população residente por faixa etária, a partir dos 15 anos de idade, bem como o contingente da população alfabetizada.
-2) Calculou-se a diferença entre a população residente da respectiva região administrativa e a população alfabetizada, obtendo-se assim a população não alfabetizada.
-3) A taxa de analfabetismo foi então determinada como a proporção da população não alfabetizada em relação ao total da população residente.
-
-Os dados utilizados derivam dos agregados por setores censitários do Censo Demográfico de 2022.
