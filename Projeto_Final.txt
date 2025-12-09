@@ -1,10 +1,23 @@
-### ETAPA 1:
+### ETAPA 1: (Uso do conteúdo entre a aula 1 até a 9 [simetria e curtose]) (Vai ser verificado na sala na aula 10 [quarta])
 - Pandas
 - Estatistica:
 	- Análise estatísticas (.py ou .ipynb) 
+		- Quartis (q1, q2, q3)
+		- Outliers
+		- IQR, LS, LI
+		- Média
+		- Variância
+		- Desvio Padrão
+		- Coeficiente de Variação (CV)
+
 - MySQL:
-	- Banco de dados (Base com multiplas tabelas relacionais)
-	- Min 5 consultas (JOIN no MySQL)
+	- Banco de dados (Base com minimo de 2 tabelas relacionais fictícias ou não) 
+	- Min 5 consultas (JOIN, SELECT, WHERE, FROM, GROUP BY)
+	- Alternativa ao XAMPP
+	- Uso do MySQL Workbench para servidor do Banco
+	- Controle do banco via funções python (salvas em uma biblioteca customizada com backup das operações em um arquivo .sql)
+
+- Documentar/relatório (Usar docstring no .py ou usar markdown no .ipynb)
 
 
 ### ETAPA 2:
