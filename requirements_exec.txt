@@ -1,6 +1,0 @@
-Alternativa ao XAMPP
-VS Code
-    python
-    jupyter
-    etc
-mysql
