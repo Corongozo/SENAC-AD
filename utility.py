@@ -1,6 +1,6 @@
 import mysql.connector
 
-def executar_comandos(commamds, conn_info):
+def sqlexec(commamds, conn_info):
     """
     Executa uma lista de comandos SQL usando uma conexão já aberta.
     

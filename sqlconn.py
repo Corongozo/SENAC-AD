@@ -41,4 +41,4 @@ comandos = [
 ]
 
 # Executar
-executar_comandos(comandos, CONN)
+sqlexec(comandos, CONN)

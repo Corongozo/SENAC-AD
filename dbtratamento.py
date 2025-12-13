@@ -2,6 +2,7 @@ import pandas as pd
 import os
 
 # Lista de colunas que você quer remover
+# TODO: Usar essa estrutura para montar minha função de biblioteca com as constantes
 COLUNAS_REMOVER = [
     "_id", "origem", "_p_usuario", "estadoNotificacao", "municipioNotificacao",
      "excluido", "validado", "_created_at", "_updated_at", "Unnamed: 0"
