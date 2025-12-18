@@ -8,7 +8,7 @@
 - [ ] Calcular **assimetria (skewness)** e **curtose (kurtosis)**  
 
 ### Banco de Dados (MySQL)
-- [ ] Usar a tabela de todos os casos no Brasil https://covid.saude.gov.br/
+- [ ] Usar a tabela de todos os casos no Brasil https://learn.microsoft.com/en-us/azure/open-datasets/dataset-bing-covid-19?tabs=azure-storage
 - [ ] Criar **mínimo 2 tabelas relacionais** (ex.: `hospital`, `ocupacao`)  
 - [ ] Escrever **script de integração em Python** (conexão + inserção de dados)  
 - [ ] Fazer pelo menos **5 consultas SQL** usando:
