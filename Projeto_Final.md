@@ -26,11 +26,13 @@
 - [ ] Estruturar pipeline integrado: leitura → tratamento → conversão → injeção
 - [ ] Adicionar logs básicos para acompanhar execução das funções
 - [ ] Escrever docstrings claras em cada função
- 
+- [ ] Converter o arquivo csv para parquet usando o polars
+- [ ] Caso o arquivo resultante tenha caracteres quebrados, trata-los em python
 
 ### Documentação/Relatório
 - [ ] Usar **docstrings** nos `.py`  
 - [ ] Usar **Markdown** nos `.ipynb` para explicar cada passo (Linguagem simples)
+- [ ] Executar a analize no `.ipynb` onde irá fazer chamadas simples de minhas bibliotecas pessoais
 
 ---
 
