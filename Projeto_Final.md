@@ -1,5 +1,7 @@
 ## 📊 ETAPA 1 — Estatística + MySQL
+
 ### Estatística (Python/Pandas)
+
 - [ ] Calcular **quartis** (Q1, Q2, Q3)  
 - [ ] Identificar **outliers** usando IQR  
 - [ ] Calcular **LS (limite superior)** e **LI (limite inferior)**  
@@ -8,7 +10,8 @@
 - [ ] Calcular **assimetria (skewness)** e **curtose (kurtosis)**  
 
 ### Banco de Dados (MySQL)
-- [ ] Usar a tabela de todos os casos no Brasil https://learn.microsoft.com/en-us/azure/open-datasets/dataset-bing-covid-19?tabs=azure-storage
+
+- [ ] Usar a tabela de todos os casos no "mundo?" https://learn.microsoft.com/en-us/azure/open-datasets/dataset-bing-covid-19?tabs=azure-storage
 - [ ] Criar **mínimo 2 tabelas relacionais** (ex.: `hospital`, `ocupacao`)  
 - [ ] Escrever **script de integração em Python** (conexão + inserção de dados)  
 - [ ] Fazer pelo menos **5 consultas SQL** usando:
@@ -30,6 +33,7 @@
 - [ ] Caso o arquivo resultante tenha caracteres quebrados, trata-los em python
 
 ### Documentação/Relatório
+
 - [ ] Usar **docstrings** nos `.py`  
 - [ ] Usar **Markdown** nos `.ipynb` para explicar cada passo (Linguagem simples)
 - [ ] Executar a analize no `.ipynb` onde irá fazer chamadas simples de minhas bibliotecas pessoais
@@ -37,9 +41,11 @@
 ---
 
 ## 📂 ETAPA 2 — Big Data
+
   pass
 
 ---
 
 ## 📈 ETAPA 3 — Power BI
+
   pass
